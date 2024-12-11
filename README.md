@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Medeiros.
+- 👀 I’m interested in mangas, animes, sushi, games in general and my girlfriend.
+- 🌱 I’m currently learning system development in Java.
+- 🖱️ I'm currently working in the systems support area.
+- 📫 Reach me in Discord 'patriot2you'.
